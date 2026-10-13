@@ -40,6 +40,14 @@ Este proyecto se desarrolló **a partir de un modelo de red neuronal que ya hab�
 5. Se presenta la puntuación de la clasificación y una orientación general, con una advertencia sobre sus limitaciones médicas.
 6. El usuario puede iniciar otro análisis.
 
+## Capturas de pantalla
+
+### Pantalla principal
+![Pantalla principal de Medikit AI](screenshots/inicio.jpg)
+
+### Resultado de la clasificación
+![Resultado de Medikit AI](screenshots/resultado1.jpg)(screenshots/resultado2.jpg)
+
 ## Estado del proyecto
 
 **Prototipo funcional.** El proyecto se ha compilado y ejecutado en un dispositivo Android real. Quedan pendientes la evaluación sistemática de exactitud con un conjunto de prueba independiente, la validación clínica, el análisis de sesgos y las pruebas más amplias de compatibilidad y rendimiento.
