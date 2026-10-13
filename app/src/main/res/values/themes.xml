@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Medikit" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/medikit_green</item>
+        <item name="colorPrimaryVariant">@color/medikit_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/medikit_green</item>
+        <item name="android:statusBarColor">@color/medikit_green</item>
+        <item name="android:navigationBarColor">@color/medikit_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/medikit_surface</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medikit</string>
+    <string name="app_subtitle">Análisis visual de lesiones con IA local</string>
+    <string name="intro_title">Analiza una imagen</string>
+    <string name="intro_description">Toma una foto o elige una imagen de tu galería.</string>
+    <string name="camera_button">Tomar foto</string>
+    <string name="gallery_button">Elegir desde galería</string>
+    <string name="new_button">Identificar nueva</string>
+    <string name="analysis_loading">Analizando imagen en el dispositivo…</string>
+    <string name="result_title">Resultado del análisis</string>
+    <string name="confidence_label">Coincidencia del modelo</string>
+    <string name="recommendation_title">Orientación general</string>
+    <string name="safety_disclaimer">Este resultado es una estimación del modelo, no un diagnóstico médico. No permite descartar una lesión grave.</string>
+    <string name="image_description">Imagen seleccionada para analizar</string>
+</resources>

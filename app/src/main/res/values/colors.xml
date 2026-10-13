@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="medikit_green">#10A37F</color>
+    <color name="medikit_dark">#161C1B</color>
+    <color name="medikit_muted">#69716F</color>
+    <color name="medikit_surface">#F6F7F6</color>
+    <color name="medikit_border">#E1E7E4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="medikit_warning">#9C5517</color>
+</resources>

@@ -1,0 +1,18 @@
+.gradle/
+.idea/
+*.iml
+local.properties
+/build/
+**/build/
+.cxx/
+.externalNativeBuild/
+captures/
+*.hprof
+*.log
+.DS_Store
+Thumbs.db
+*.apk
+*.aab
+# Do not commit personal photos of injuries, image datasets or protected health information.
+training-data/
+private-images/
