@@ -46,7 +46,7 @@ Este proyecto se desarrolló **a partir de un modelo de red neuronal que ya hab�
 ![Pantalla principal de Medikit AI](screenshots/inicio.jpg)
 
 ### Resultado de la clasificación
-![Resultado de Medikit AI](screenshots/resultado1.jpg)(screenshots/resultado2.jpg)
+![Resultado de Medikit AI](screenshots/resultado1.jpg)
 ![Descripción de Medikit AI](screenshots/resultado2.jpg)
 
 ## Estado del proyecto
